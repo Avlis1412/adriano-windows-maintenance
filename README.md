@@ -1,17 +1,5 @@
 # adriano-windows-maintenance
----
-Sim, **você pode e deve colocar o código completo do script `.bat` logo abaixo do resumo das funcionalidades no seu `README.md`**\!
 
-É uma prática excelente no GitHub. Ao fazer isso, as pessoas que visitarem o seu repositório poderão:
-
-  * Ler o resumo para entender o que o script faz.
-  * Ver o código imediatamente no mesmo arquivo para inspecioná-lo, copiá-lo ou entender sua lógica.
-
-Lembre-se de usar os blocos de código Markdown (` ```batch ` antes do código e ` ``` ` depois do código) para que o script seja exibido com formatação correta e destaque no `README.md`.
-
-Ficaria assim:
-
-````markdown
 # Script de Manutenção e Otimização do Windows (Batch)
 
 Este script em Batch (.bat) é uma ferramenta automatizada projetada para executar uma série de tarefas essenciais de manutenção e otimização em sistemas operacionais Windows. Ele consolida diversas operações comuns de linha de comando em um único arquivo executável, facilitando a rotina de cuidado com o PC.
